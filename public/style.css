@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+#h1{
+    color:#6B5ACD;
+}
+
+#main {
+    background-color: blueviolet;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.left{
+    margin-left: 100px;
+}
+.inline{
+    display: inline;
+    /* margin-left: 100px; */
+}
+
+.firstbutton {
+    margin-left: 200px;
+    width: 100px;
+    height: 30px;
+}
+
+.secondbutton {
+    width: 100px;
+    height: 30px;
+}
+.fa {
+    border: 1px solid #316DC3;
+    color: white;
+    padding: 5px;
+    margin-left:25px;
+   
+  }
+
+
+  .col-xl-5{
+      background-color:#316DC3;
+      color: white;     
+      padding: 5px;
+  }
+  .col-xl-4,.col-xl-3{
+    background-color:#316DC3;
+    padding: 5px;
+
+  }
+  .fa:hover{
+      background:rgb(72, 155, 207);
+  }
+  .logo{
+      width:30;
+      height:60;
+  }
+ 
+ nav{
+     background-color: white;
+     color: black;
+     margin: 5px;
+
+ }
+
+ .one, .dropdown-menu a:hover, .dropdown-item :hover {
+    background: #316DC3;
+    color: white;
+    border-radius: 20px;
+}
+ /* .info,.p1,.p2,.p3,.p4{
+  text-align: justify;
+ } */
+ 
+ div.pic2 {
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-left: 40%;
+    position: absolute;
+    top: 140%;
+    text-transform: capitalize;
+  }
+.pic,.pic1,.pic2,.pic3,.pic4,.pic5{
+    margin-left: 150px;
+}
+.pic6,.pic7,.pic8,.pic9,.pic10{
+   margin-left:60px;
+    width: 200px;
+}
+
